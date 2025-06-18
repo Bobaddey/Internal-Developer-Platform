@@ -89,4 +89,4 @@ bash tools/devctl.sh create-service my-new-service
 ## 🙌 Author
 Bob Adewusi
 - GitHub: [@Bobaddey](https://github.com/Bobaddey)
-- Twitter: [@bobaddey](https://twitter.com/BobTechies)
+- Twitter: [@BobTechies](https://twitter.com/BobTechies)
